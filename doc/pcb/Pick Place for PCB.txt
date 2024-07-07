@@ -1,0 +1,66 @@
+Altium Designer Pick and Place Locations
+\\Mac\Home\Yandex.Disk.localized\Development\Jobs\RHS\rcan-usb-hardware\doc\pcb\Pick Place for PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       07/07/24
+Time:       13:50
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment         Layer    Footprint           Center-X(mil) Center-Y(mil) Rotation Description                                                   
+U4         LM1117LD-3.3    TopLayer DFN400X400X80-9N    1867.228      -279.284      0        "Linear Voltage Regulator IC 1 Output 800mA 8-WSON _4x4_"     
+*2         M3              TopLayer M3                  434.571       -250.000      0        ""                                                            
+*1         M3              TopLayer M3                  2463.067      -250.000      0        ""                                                            
+SW1_CAN2   DS1040-01RT     TopLayer DS1040-01RT         1882.874      2096.063      0        ""                                                            
+SW1_CAN1   DS1040-01RT     TopLayer DS1040-01RT         1014.764      2096.063      0        ""                                                            
+CAN2_IN    TBLH10-350-02BK TopLayer CUI_TBLH10-350-02BK 2437.992      1995.079      180      ""                                                            
+CAN2_OUT   TBLH10-350-02BK TopLayer CUI_TBLH10-350-02BK 2124.016      1995.079      180      ""                                                            
+R9_CAN2    10k             TopLayer R_0603              1784.449      1416.339      270      Resistor                                                      
+R9_CAN1    10k             TopLayer R_0603              789.370       1416.339      270      Resistor                                                      
+R1         10k             TopLayer R_0603              1915.354      479.331       135      Resistor                                                      
+C6         0.1uF           TopLayer C_0603              1606.299      179.134       135      Capacitor                                                     
+X1         TYPE-C-31-M-12  TopLayer HRO_TYPE-C-31-M-12  1448.819      -550.295      0        "USB Connectors 24 Receptacle 1 8.94*7.3mm RoHS"              
+CAN1_OUT   TBLH10-350-02BK TopLayer CUI_TBLH10-350-02BK 459.646       2000.984      180      ""                                                            
+CAN1_IN    TBLH10-350-02BK TopLayer CUI_TBLH10-350-02BK 773.622       2000.984      180      ""                                                            
+SWD        PLS2-5          TopLayer PLS-5-3D            2581.299      540.354       0        "Header, 5-Pin"                                               
+U3         USBLC6-2SC6     TopLayer SOT95P280X145-6N    1450.394      -290.354      270      "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6" 
+U2_CAN2    SN65HVD232D     TopLayer SO-8_M              1933.070      1362.205      90       CAN_transiever                                                
+U2_CAN1    SN65HVD232D     TopLayer SO-8_M              933.071       1362.205      90       CAN_transiever                                                
+U1         STM32F405RGT6   TopLayer LQFP64-10x10mm      1444.882      493.110       45       "No Description Available"                                    
+R12        5.1k            TopLayer R_0603              1566.535      -292.323      270      Resistor                                                      
+R11        5.1k            TopLayer R_0603              1632.480      -291.338      270      Resistor                                                      
+R10_CAN2   120             TopLayer R_0603              1909.449      1860.236      0        Resistor                                                      
+R10_CAN1   120             TopLayer R_0603              989.173       1863.189      180      Resistor                                                      
+R2         10k             TopLayer R_0603              1184.055      696.850       315      Resistor                                                      
+R3         10k             TopLayer R_0603              1356.299      99.409        45       Resistor                                                      
+R8         270             TopLayer R_0603              2625.984      1842.520      270      Resistor                                                      
+R7         270             TopLayer R_0603              2683.071      1842.520      270      Resistor                                                      
+R6         270             TopLayer R_0603              214.567       1848.425      270      Resistor                                                      
+R5         270             TopLayer R_0603              271.654       1848.425      270      Resistor                                                      
+R4         270             TopLayer R_0603              1179.134      -498.032      90       Resistor                                                      
+G1         NX3225GD-8MHZ   TopLayer NX3225GD            1111.222      242.130       45       "Crystal Oscillator"                                          
+D1_CAN2    ESDCAN24-2BLY   TopLayer SOT23               1931.988      1596.732      90       ESD                                                           
+D1_CAN1    ESDCAN24-2BLY   TopLayer SOT23               934.055       1596.732      90       ESD                                                           
+TX2        Red             TopLayer LED_0603            2625.984      1950.787      90       LED                                                           
+RX2        Red             TopLayer LED_0603            2683.071      1950.787      90       LED                                                           
+TX1        Red             TopLayer LED_0603            214.567       1956.693      90       LED                                                           
+RX1        Red             TopLayer LED_0603            271.654       1956.693      90       LED                                                           
+State      Red             TopLayer LED_0603            1179.134      -606.299      270      LED                                                           
+C12_CAN2   0.1uF           TopLayer C_0603              1931.102      1151.575      0        Capacitor                                                     
+C12_CAN1   0.1uF           TopLayer C_0603              934.055       1153.543      0        Capacitor                                                     
+C15        "22uF 10V"      TopLayer TANTAL_TYPE_A       1811.614      -83.661       180      "Tantal Capacitor"                                            
+C14        0.1uF           TopLayer C_0603              1835.236      -163.386      0        Capacitor                                                     
+C9         0.1uF           TopLayer C_0603              1266.942      186.234       45       Capacitor                                                     
+C8         8pF             TopLayer C_0603              1221.457      270.669       135      Capacitor                                                     
+C7         8pF             TopLayer C_0603              1138.570      352.572       315      Capacitor                                                     
+C11        0.1uF           TopLayer C_0603              1761.811      333.661       135      Capacitor                                                     
+C5         0.1uF           TopLayer C_0603              1312.008      142.717       45       Capacitor                                                     
+C1         0.1uF           TopLayer C_0603              1805.328      376.759       135      Capacitor                                                     
+C2         0.1uF           TopLayer C_0603              1054.134      397.638       45       Capacitor                                                     
+C4         0.1uF           TopLayer C_0603              1535.433      875.000       225      Capacitor                                                     
+C3         0.1uF           TopLayer C_0603              1106.299      623.032       315      Capacitor                                                     
+C13        0.1uF           TopLayer C_0603              1772.638      -401.575      0        Capacitor                                                     
+C10        0.1uF           TopLayer C_0603              1578.740      831.693       225      Capacitor                                                     
