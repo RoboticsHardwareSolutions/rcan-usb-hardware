@@ -5,8 +5,8 @@ Altium Designer Pick and Place Locations
 File Design Information:
 
 Date:       07/07/24
-Time:       13:50
-Revision:   Not in VersionControl
+Time:       14:58
+Revision:   ec185645996e97f37b6579045bbf02384a334519
 Variant:    No variations
 Units used: mil
 
@@ -14,17 +14,17 @@ Designator Comment         Layer    Footprint           Center-X(mil) Center-Y(m
 U4         LM1117LD-3.3    TopLayer DFN400X400X80-9N    1867.228      -279.284      0        "Linear Voltage Regulator IC 1 Output 800mA 8-WSON _4x4_"     
 *2         M3              TopLayer M3                  434.571       -250.000      0        ""                                                            
 *1         M3              TopLayer M3                  2463.067      -250.000      0        ""                                                            
-SW1_CAN2   DS1040-01RT     TopLayer DS1040-01RT         1882.874      2096.063      0        ""                                                            
-SW1_CAN1   DS1040-01RT     TopLayer DS1040-01RT         1014.764      2096.063      0        ""                                                            
-CAN2_IN    TBLH10-350-02BK TopLayer CUI_TBLH10-350-02BK 2437.992      1995.079      180      ""                                                            
-CAN2_OUT   TBLH10-350-02BK TopLayer CUI_TBLH10-350-02BK 2124.016      1995.079      180      ""                                                            
+SW1_CAN2   DS1040-01RT     TopLayer DS1040-01RT         1882.874      2096.063      0        DS1040-01RT                                                   
+SW1_CAN1   DS1040-01RT     TopLayer DS1040-01RT         1014.764      2096.063      0        DS1040-01RT                                                   
+CAN2_IN    TBLH10-350-02BK TopLayer CUI_TBLH10-350-02BK 2437.992      1995.079      180      TBLH10-350-02BK                                               
+CAN2_OUT   TBLH10-350-02BK TopLayer CUI_TBLH10-350-02BK 2124.016      1995.079      180      TBLH10-350-02BK                                               
 R9_CAN2    10k             TopLayer R_0603              1784.449      1416.339      270      Resistor                                                      
 R9_CAN1    10k             TopLayer R_0603              789.370       1416.339      270      Resistor                                                      
 R1         10k             TopLayer R_0603              1915.354      479.331       135      Resistor                                                      
 C6         0.1uF           TopLayer C_0603              1606.299      179.134       135      Capacitor                                                     
 X1         TYPE-C-31-M-12  TopLayer HRO_TYPE-C-31-M-12  1448.819      -550.295      0        "USB Connectors 24 Receptacle 1 8.94*7.3mm RoHS"              
-CAN1_OUT   TBLH10-350-02BK TopLayer CUI_TBLH10-350-02BK 459.646       2000.984      180      ""                                                            
-CAN1_IN    TBLH10-350-02BK TopLayer CUI_TBLH10-350-02BK 773.622       2000.984      180      ""                                                            
+CAN1_OUT   TBLH10-350-02BK TopLayer CUI_TBLH10-350-02BK 459.646       2000.984      180      TBLH10-350-02BK                                               
+CAN1_IN    TBLH10-350-02BK TopLayer CUI_TBLH10-350-02BK 773.622       2000.984      180      TBLH10-350-02BK                                               
 SWD        PLS2-5          TopLayer PLS-5-3D            2581.299      540.354       0        "Header, 5-Pin"                                               
 U3         USBLC6-2SC6     TopLayer SOT95P280X145-6N    1450.394      -290.354      270      "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6" 
 U2_CAN2    SN65HVD232D     TopLayer SO-8_M              1933.070      1362.205      90       CAN_transiever                                                
