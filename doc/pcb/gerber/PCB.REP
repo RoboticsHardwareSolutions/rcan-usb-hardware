@@ -2,6 +2,17 @@
 FileName = PCB.GBR
 AutoAperture = True
 *************************************************************
+Generating : Board
+      File : PCB.GM1
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D16
+*************************************************************
+
+*************************************************************
 Generating : Bottom Overlay
       File : PCB.GBO
 

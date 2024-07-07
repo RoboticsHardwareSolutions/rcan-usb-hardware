@@ -1,0 +1,23 @@
+Board Information Report
+Filename     : \\Mac\Home\Yandex.Disk.localized\Development\Jobs\RHS\rcan-usb-hardware\hardware\PCB.PcbDoc
+Date         : 7/7/2024
+Time         : 11:43:08 PM
+Time Elapsed : 00:00:00
+
+Pad Solder Mask, Count
+    0mm, 64
+    0.05mm, 4
+    0.1016mm, 150
+count : 3
+
+Pad Paste Mask, Count
+    0mm, 218
+count : 1
+
+Via Solder Mask, Count
+    0.1016mm, 58
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    0.508mm, 58
+count : 1
