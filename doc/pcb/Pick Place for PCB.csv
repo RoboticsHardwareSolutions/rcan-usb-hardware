@@ -4,8 +4,8 @@ Altium Designer Pick and Place Locations
 ========================================================================================================================
 File Design Information:
 
-Date:       26/09/24
-Time:       17:50
+Date:       12/11/24
+Time:       20:01
 Revision:   dc696c45120e60208136858332ab27d68e4dcdee
 Variant:    No variations
 Units used: mm
@@ -14,10 +14,10 @@ Units used: mm
 "U4","LM1117LD-3.3","TopLayer","DFN400X400X80-9N","47.4276","-7.0938","0","Linear Voltage Regulator IC 1 Output 800mA 8-WSON _4x4_"
 "*2","M3","TopLayer","M3","11.0381","-6.3500","0",""
 "*1","M3","TopLayer","M3","62.5619","-6.3500","0",""
-"SW1_CAN2","DS1040-01RT","TopLayer","DS1040-01RT","47.8250","53.2400","0","DS1040-01RT"
-"SW1_CAN1","DS1040-01RT","TopLayer","DS1040-01RT","25.7750","53.2400","0","DS1040-01RT"
-"CAN2_IN","TBLH10-350-02BK","TopLayer","CUI_TBLH10-350-02BK","61.9250","50.6750","180","TBLH10-350-02BK"
-"CAN2_OUT","TBLH10-350-02BK","TopLayer","CUI_TBLH10-350-02BK","53.9500","50.6750","180","TBLH10-350-02BK"
+"SW1_CAN2","DS1040-01RT","TopLayer","DS1040-01RT","47.8250","53.2400","0",""
+"SW1_CAN1","DS1040-01RT","TopLayer","DS1040-01RT","25.7750","53.2400","0",""
+"CAN2_IN","TBLH10-350-02BK","TopLayer","CUI_TBLH10-350-02BK","61.9250","50.8250","180","TBLH10-350-02BK"
+"CAN2_OUT","TBLH10-350-02BK","TopLayer","CUI_TBLH10-350-02BK","53.9500","50.8250","180","TBLH10-350-02BK"
 "R9_CAN2","10k","TopLayer","R_0603","45.3250","35.9750","270","Resistor"
 "R9_CAN1","10k","TopLayer","R_0603","20.0500","35.9750","270","Resistor"
 "R1","10k","TopLayer","R_0603","48.6500","12.1750","135","Resistor"

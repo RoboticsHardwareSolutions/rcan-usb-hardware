@@ -9,7 +9,7 @@ Generating : Board
 
 
 Used DCodes :
-    D16
+    D15
 *************************************************************
 
 *************************************************************
@@ -70,7 +70,7 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D14
+    D16
     D30
     D31
     D36
@@ -159,7 +159,7 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D16
+    D15
     D60
     D61
     D62
@@ -186,7 +186,7 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D14
+    D15
     D16
     D18
     D19
