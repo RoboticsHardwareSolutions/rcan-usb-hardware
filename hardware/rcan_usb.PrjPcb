@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NCFCHLPI
 
 [Document6]
-DocumentPath=\\Mac\Altium\altiumlib-master\schlibs\analog_ic.schlib
+DocumentPath=..\..\altguide\files\Job.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=\\Mac\Altium\altiumlib-master\schlibs\battery_socets.schlib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\schlibs\analog_ic.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=\\Mac\Altium\altiumlib-master\schlibs\capacitors.schlib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\schlibs\battery_socets.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -186,7 +186,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=\\Mac\Altium\altiumlib-master\schlibs\connectors_socets.schlib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\schlibs\capacitors.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -200,10 +200,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WEWSKTNW
+DocumentUniqueId=
 
 [Document10]
-DocumentPath=\\Mac\Altium\altiumlib-master\schlibs\crystals_oscillators.schlib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\schlibs\connectors_socets.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -220,7 +220,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=\\Mac\Altium\altiumlib-master\schlibs\dcdc_ldo_ref.schlib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\schlibs\crystals_oscillators.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -237,7 +237,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=\\Mac\Altium\altiumlib-master\schlibs\diode.schlib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\schlibs\dcdc_ldo_ref.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -251,10 +251,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PUUOVIHT
 
 [Document13]
-DocumentPath=\\Mac\Altium\altiumlib-master\schlibs\discret_ic.schlib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\schlibs\diode.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -271,7 +271,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document14]
-DocumentPath=\\Mac\Altium\altiumlib-master\schlibs\fuse.schlib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\schlibs\discret_ic.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -288,7 +288,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document15]
-DocumentPath=\\Mac\Altium\altiumlib-master\schlibs\inductors_transformers.schlib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\schlibs\fuse.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -305,7 +305,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document16]
-DocumentPath=\\Mac\Altium\altiumlib-master\schlibs\led_lcd.schlib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\schlibs\inductors_transformers.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -322,7 +322,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document17]
-DocumentPath=\\Mac\Altium\altiumlib-master\schlibs\mcu.schlib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\schlibs\led_lcd.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -339,7 +339,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document18]
-DocumentPath=\\Mac\Altium\altiumlib-master\schlibs\modules.schlib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\schlibs\mcu.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -356,7 +356,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=\\Mac\Altium\altiumlib-master\schlibs\optocouplers.schlib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\schlibs\modules.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -373,7 +373,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document20]
-DocumentPath=\\Mac\Altium\altiumlib-master\schlibs\other.schlib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\schlibs\optocouplers.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -387,10 +387,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JJWJYTXJ
+DocumentUniqueId=
 
 [Document21]
-DocumentPath=\\Mac\Altium\altiumlib-master\schlibs\resistors.schlib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\schlibs\other.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -407,7 +407,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document22]
-DocumentPath=\\Mac\Altium\altiumlib-master\schlibs\transistors.schlib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\schlibs\resistors.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -424,7 +424,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document23]
-DocumentPath=\\Mac\Altium\altiumlib-master\pcblibs\analog_ic.pcblib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\schlibs\transistors.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -441,7 +441,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document24]
-DocumentPath=\\Mac\Altium\altiumlib-master\pcblibs\battery_socets.pcblib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\pcblibs\analog_ic.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -458,7 +458,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document25]
-DocumentPath=\\Mac\Altium\altiumlib-master\pcblibs\capacitors.pcblib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\pcblibs\battery_socets.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -475,7 +475,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document26]
-DocumentPath=\\Mac\Altium\altiumlib-master\pcblibs\connectors_socets.pcblib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\pcblibs\capacitors.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -489,10 +489,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PNWQCHQB
+DocumentUniqueId=
 
 [Document27]
-DocumentPath=\\Mac\Altium\altiumlib-master\pcblibs\crystals_oscillators.pcblib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\pcblibs\connectors_socets.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -509,7 +509,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document28]
-DocumentPath=\\Mac\Altium\altiumlib-master\pcblibs\dcdc_ldo_ref.pcblib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\pcblibs\crystals_oscillators.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -526,7 +526,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document29]
-DocumentPath=\\Mac\Altium\altiumlib-master\pcblibs\diode.pcblib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\pcblibs\dcdc_ldo_ref.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -540,10 +540,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EDGWYOAD
 
 [Document30]
-DocumentPath=\\Mac\Altium\altiumlib-master\pcblibs\discret_ic.pcblib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\pcblibs\diode.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -560,7 +560,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document31]
-DocumentPath=\\Mac\Altium\altiumlib-master\pcblibs\fuse.pcblib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\pcblibs\discret_ic.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -577,7 +577,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document32]
-DocumentPath=\\Mac\Altium\altiumlib-master\pcblibs\inductors_transformers.pcblib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\pcblibs\fuse.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -594,7 +594,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document33]
-DocumentPath=\\Mac\Altium\altiumlib-master\pcblibs\led_lcd.pcblib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\pcblibs\inductors_transformers.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -611,7 +611,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document34]
-DocumentPath=\\Mac\Altium\altiumlib-master\pcblibs\mcu.pcblib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\pcblibs\led_lcd.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -628,7 +628,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document35]
-DocumentPath=\\Mac\Altium\altiumlib-master\pcblibs\modules.pcblib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\pcblibs\mcu.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -645,7 +645,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document36]
-DocumentPath=\\Mac\Altium\altiumlib-master\pcblibs\optocouplers.pcblib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\pcblibs\modules.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -662,7 +662,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document37]
-DocumentPath=\\Mac\Altium\altiumlib-master\pcblibs\other.pcblib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\pcblibs\optocouplers.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -676,10 +676,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XDKUXPQI
+DocumentUniqueId=
 
 [Document38]
-DocumentPath=\\Mac\Altium\altiumlib-master\pcblibs\resistors.pcblib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\pcblibs\other.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -696,7 +696,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document39]
-DocumentPath=\\Mac\Altium\altiumlib-master\pcblibs\transistors.pcblib
+DocumentPath=..\..\..\..\Altium\altiumlib-master\pcblibs\resistors.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -713,7 +713,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document40]
-DocumentPath=..\..\altguide\files\Job.OutJob
+DocumentPath=..\..\..\..\Altium\altiumlib-master\pcblibs\transistors.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -735,10 +735,6 @@ DItemRevisionGUID=
 
 [GeneratedDocument2]
 DocumentPath=..\doc\pcb\Pick Place for PCB.csv
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=..\doc\pcb\Pick Place for PCB.txt
 DItemRevisionGUID=
 
 [Configuration1]
@@ -1246,36 +1242,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

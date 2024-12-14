@@ -4,14 +4,16 @@ Altium Designer Pick and Place Locations
 ========================================================================================================================
 File Design Information:
 
-Date:       12/11/24
-Time:       20:01
-Revision:   dc696c45120e60208136858332ab27d68e4dcdee
+Date:       14/12/24
+Time:       16:40
+Revision:   4fe8cdc29b78ab47383511c272bf215f8b7d967c
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
-"U4","LM1117LD-3.3","TopLayer","DFN400X400X80-9N","47.4276","-7.0938","0","Linear Voltage Regulator IC 1 Output 800mA 8-WSON _4x4_"
+"U4","LP38692-3.3V","TopLayer","WSON-6","46.7024","-6.9932","90","LP38690, LP38692 1-A LDO CMOS Linear Regulators  Stable with Ceramic Output Capacitors"
+"C14","1uF","TopLayer","C_0603","46.7024","-4.0432","0","Capacitor"
+"C13","4.7uF","TopLayer","C_0603","46.7024","-9.8932","180","Capacitor"
 "*2","M3","TopLayer","M3","11.0381","-6.3500","0",""
 "*1","M3","TopLayer","M3","62.5619","-6.3500","0",""
 "SW1_CAN2","DS1040-01RT","TopLayer","DS1040-01RT","47.8250","53.2400","0",""
@@ -50,8 +52,6 @@ Units used: mm
 "State","Red","TopLayer","LED_0603","29.9500","-15.4000","270","LED"
 "C12_CAN2","0.1uF","TopLayer","C_0603","49.0500","29.2500","0","Capacitor"
 "C12_CAN1","0.1uF","TopLayer","C_0603","23.7250","29.3000","0","Capacitor"
-"C15","22uF 10V","TopLayer","TANTAL_TYPE_A","46.0150","-2.1250","180","Tantal Capacitor"
-"C14","0.1uF","TopLayer","C_0603","46.6150","-4.1500","0","Capacitor"
 "C9","0.1uF","TopLayer","C_0603","32.1803","4.7303","45","Capacitor"
 "C8","8pF","TopLayer","C_0603","31.0250","6.8750","135","Capacitor"
 "C7","8pF","TopLayer","C_0603","28.9197","8.9553","315","Capacitor"
@@ -61,5 +61,4 @@ Units used: mm
 "C2","0.1uF","TopLayer","C_0603","26.7750","10.1000","45","Capacitor"
 "C4","0.1uF","TopLayer","C_0603","39.0000","22.2250","225","Capacitor"
 "C3","0.1uF","TopLayer","C_0603","28.1000","15.8250","315","Capacitor"
-"C13","0.1uF","TopLayer","C_0603","45.0250","-10.2000","0","Capacitor"
 "C10","0.1uF","TopLayer","C_0603","40.1000","21.1250","225","Capacitor"
