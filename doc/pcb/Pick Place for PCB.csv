@@ -4,9 +4,9 @@ Altium Designer Pick and Place Locations
 ========================================================================================================================
 File Design Information:
 
-Date:       14/12/24
-Time:       16:40
-Revision:   4fe8cdc29b78ab47383511c272bf215f8b7d967c
+Date:       19/12/24
+Time:       19:36
+Revision:   72ccc68ad4e7325763bd8874148b7f14a7f4940a
 Variant:    No variations
 Units used: mm
 
@@ -16,17 +16,17 @@ Units used: mm
 "C13","4.7uF","TopLayer","C_0603","46.7024","-9.8932","180","Capacitor"
 "*2","M3","TopLayer","M3","11.0381","-6.3500","0",""
 "*1","M3","TopLayer","M3","62.5619","-6.3500","0",""
-"SW1_CAN2","DS1040-01RT","TopLayer","DS1040-01RT","47.8250","53.2400","0",""
+"SW1_CAN2","DS1040-01RT","TopLayer","DS1040-01RT","47.8200","53.2400","0",""
 "SW1_CAN1","DS1040-01RT","TopLayer","DS1040-01RT","25.7750","53.2400","0",""
-"CAN2_IN","TBLH10-350-02BK","TopLayer","CUI_TBLH10-350-02BK","61.9250","50.8250","180","TBLH10-350-02BK"
-"CAN2_OUT","TBLH10-350-02BK","TopLayer","CUI_TBLH10-350-02BK","53.9500","50.8250","180","TBLH10-350-02BK"
+"CAN2_IN","TBLH10-350-02BK","TopLayer","CUI_TBLH10-350-02BK","61.9500","53.5250","180","TBLH10-350-02BK"
+"CAN2_OUT","TBLH10-350-02BK","TopLayer","CUI_TBLH10-350-02BK","53.9500","53.5250","180","TBLH10-350-02BK"
 "R9_CAN2","10k","TopLayer","R_0603","45.3250","35.9750","270","Resistor"
 "R9_CAN1","10k","TopLayer","R_0603","20.0500","35.9750","270","Resistor"
 "R1","10k","TopLayer","R_0603","48.6500","12.1750","135","Resistor"
 "C6","0.1uF","TopLayer","C_0603","40.8000","4.5500","135","Capacitor"
 "X1","TYPE-C-31-M-12","TopLayer","HRO_TYPE-C-31-M-12","36.8000","-13.9775","0","USB Connectors 24 Receptacle 1 8.94*7.3mm RoHS"
-"CAN1_OUT","TBLH10-350-02BK","TopLayer","CUI_TBLH10-350-02BK","11.6750","50.8250","180","TBLH10-350-02BK"
-"CAN1_IN","TBLH10-350-02BK","TopLayer","CUI_TBLH10-350-02BK","19.6500","50.8250","180","TBLH10-350-02BK"
+"CAN1_OUT","TBLH10-350-02BK","TopLayer","CUI_TBLH10-350-02BK","11.6500","53.5250","180","TBLH10-350-02BK"
+"CAN1_IN","TBLH10-350-02BK","TopLayer","CUI_TBLH10-350-02BK","19.6500","53.5250","180","TBLH10-350-02BK"
 "U3","USBLC6-2SC6","TopLayer","SOT95P280X145-6N","36.8400","-7.3750","270","17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
 "U2_CAN2","SN65HVD232D","TopLayer","SO-8_M","49.1000","34.6000","90","CAN_transiever"
 "U2_CAN1","SN65HVD232D","TopLayer","SO-8_M","23.7000","34.6000","90","CAN_transiever"
