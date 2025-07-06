@@ -15,5 +15,5 @@
 "No Description Available","STM32F405RGT6","U1","LQFP64-10x10mm","STM32F405RGT6","","1"
 "CAN_transiever","SN65HVD232D","U2_CAN1, U2_CAN2","SO-8_M","SN65HVD232D","","2"
 "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6","USBLC6-2SC6","U3","SOT95P280X145-6N","USBLC6-2SC6","","1"
-"LP38690, LP38692 1-A LDO CMOS Linear Regulators  Stable with Ceramic Output Capacitors","LP38692-3.3V","U4","WSON-6","","","1"
+"LP38690, LP38692 1-A LDO CMOS Linear Regulators  Stable with Ceramic Output Capacitors","LP38692-3.3V","U4","WSON-6","LP38692-3.3V","","1"
 "USB Connectors 24 Receptacle 1 8.94*7.3mm RoHS","TYPE-C-31-M-12","X1","HRO_TYPE-C-31-M-12","TYPE-C-31-M-12","","1"
