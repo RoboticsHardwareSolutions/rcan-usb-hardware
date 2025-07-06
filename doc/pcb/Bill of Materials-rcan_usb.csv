@@ -1,5 +1,4 @@
-Description,Comment,Designator,Footprint,Part Number,Alternative Part,Quantity
-
+"Description","Comment","Designator","Footprint","Part","Alternative Part","Quantity"
 "Capacitor","0.1uF","C1, C2, C3, C4, C5, C6, C9, C10, C11, C12_CAN1, C12_CAN2","C_0603","CC0603KPX7R9BB104","","11"
 "Capacitor","8pF","C7, C8","C_0603","CC0603DRNPO9BN8R0","","2"
 "Capacitor","4.7uF","C13","C_0603","CC0603KRX5R6BB475","","1"
